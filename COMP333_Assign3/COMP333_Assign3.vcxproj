@@ -112,6 +112,9 @@
   <ItemGroup>
     <ClInclude Include="TheatreList.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TheatreList.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -32,6 +32,4 @@ class TheatreList {
 		int getNoSeat() const { return numSeatsSold; }
 		string getConcertTitle() const { return concertTitle; }
 
-
-
 };
